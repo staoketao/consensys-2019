@@ -1,5 +1,9 @@
 # Bounty Board #
 
+Thanks for reviewing the project. Unfortunately there are still some bugs I couldn't fix to make the UI work as expected. The code compiles, connect to local network and mint ethers for the test account. I hope the rest of the code still make sense to you. 
+
+The code is developed using solidity 0.5, truffle 5.0.30, ganache-cli and metamask. 
+
 ## Deployed Environment ##
 
 This dapp demo is on the Ropsten Test Net and requires metamask to interact with. Below are some Ropsten faucets to get ether:
@@ -43,19 +47,13 @@ Wondering how to set it up? There are two methods for getting started with this 
 Checkout this repo, install dependencies, then start up the project for review:
 
 ```
-> git clone https://github.com/b3h3rkz/thebountyzone/
+> git clone https://github.com/staoketao/consensys-2019
 > cd thebountyzone
 > npm install
 > npm start
 ```
 
 
-#### Not Familiar with Git?
-Click [here](https://github.com/b3h3rkz/thebountyzone/archive/master.zip) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and run:
-
-```
-> npm install
-```
 
 
 #### Start the development web server to serve the front end interface of the application

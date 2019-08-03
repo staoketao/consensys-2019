@@ -2,7 +2,7 @@
 
 Thanks for reviewing the project. I ran out of time to make the UI work as expected. I hope the rest of the code still make sense to you. 
 
-The code is developed using solidity 0.5, truffle 5.0.30, ganache-cli and metamask. 
+The code is developed using solidity 0.5, truffle 5.0.30, ganache-cli 6.5.1 and metamask 6.7.3. 
 
 ## Deployed Environment ##
 

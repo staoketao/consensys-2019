@@ -1,6 +1,6 @@
 # Bounty Board #
 
-Thanks for reviewing the project. Unfortunately there are still some bugs I couldn't fix to make the UI work as expected. The code compiles, connect to local network and mint ethers for the test account. I hope the rest of the code still make sense to you. 
+Thanks for reviewing the project. I ran out of time to make the UI work as expected. I hope the rest of the code still make sense to you. 
 
 The code is developed using solidity 0.5, truffle 5.0.30, ganache-cli and metamask. 
 

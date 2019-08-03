@@ -43,23 +43,13 @@ Each submission (nested within Bounty Posts) contains the following details:
 Wondering how to set it up? There are two methods for getting started with this repo. Using git clone or manually download and extract the project zip.
 
 
-#### Familiar with Git?
+#### Setup with git
 Checkout this repo, install dependencies, then start up the project for review:
 
 ```
 > git clone https://github.com/staoketao/consensys-2019
 > cd thebountyzone
 > npm install
-> npm start
-```
-
-
-
-
-#### Start the development web server to serve the front end interface of the application
-Once you have finished downloading the project dependancies (npm install), run the development web server:
-
-```
 > npm start
 ```
 
@@ -86,14 +76,6 @@ Once the contracts have been compled and migrated, its time to open the front en
 #### Using thebountyzone dApp
 
 Because the thebountyzone dApp restricts functions depending if a user is a bounty poster or bounty hunter, you will need to use two Meta Mask accounts or two separate browsers running Meta Mask with different accounts from the same seed provided by ganache-cli. 
-
-Recommended browsers:
-
-Chrome - [Download here](https://www.google.ca/chrome/)
-
-Brave - [Download here](https://brave.com/download/)
-
-[You can also download Meta Mask here for each browser](https://metamask.io/)
 
 
 #### Example walkthrough of thebountyzone dApp:
